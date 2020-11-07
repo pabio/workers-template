@@ -1,37 +1,45 @@
-# ʕ •́؈•̀) `workers-typescript-template`
+# ☁️ Workers Template
 
-A batteries included template for kick starting a TypeScript Cloudflare worker project.
+This is a starter repository for building Cloudflare Workers projects using Node.js and TypeScript at Koj.
 
-## 🔋 Getting Started
+<!-- prettier-ignore-start -->
+|   | Status |
+| - | - |
+| Build | [![Node CI](https://github.com/koj-co/workers-template/workflows/Node%20CI/badge.svg)](https://github.com/koj-co/workers-template/actions?query=workflow%3A%22Node+CI%22) [![Dependencies](https://img.shields.io/librariesio/github/koj-co/workers-template)](https://libraries.io/github/koj-co/workers-template) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/koj-co/workers-template)](https://github.com/koj-co/workers-template/releases) [![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/koj-co/workers-template)](https://snyk.io/test/github/koj-co/workers-template) |
+| Health | [![License CI](https://github.com/koj-co/workers-template/workflows/License%20CI/badge.svg)](https://github.com/koj-co/workers-template/actions?query=workflow%3A%22License+CI%22) [![CLA Assistant](https://github.com/koj-co/workers-template/workflows/CLA%20Assistant/badge.svg)](https://github.com/koj-co/workers-template/actions?query=workflow%3A%22CLA+Assistant%22) [![Pull Request Labeler](https://github.com/koj-co/workers-template/workflows/Pull%20Request%20Labeler/badge.svg)](https://github.com/koj-co/workers-template/actions?query=workflow%3A%22Pull+Request+Labeler%22) |
+| PRs | [![PR Generator CI](https://github.com/koj-co/workers-template/workflows/PR%20Generator%20CI/badge.svg)](https://github.com/koj-co/workers-template/actions?query=workflow%3A%22PR+Generator+CI%22) [![Merge PRs](https://github.com/koj-co/workers-template/workflows/Merge%20PRs/badge.svg)](https://github.com/koj-co/workers-template/actions?query=workflow%3A%22Merge+PRs%22) |
+<!-- prettier-ignore-end -->
 
-This template is meant to be used with [Wrangler](https://github.com/cloudflare/wrangler). If you are not already familiar with the tool, we recommend that you install the tool and configure it to work with your [Cloudflare account](https://dash.cloudflare.com). Documentation can be found [here](https://developers.cloudflare.com/workers/tooling/wrangler/).
+## ⭐️ Features
 
-To generate using Wrangler, run this command:
+- [Semantic Release with Gitmoji](./release.config.js)
+- [Koj's Prettier configuration](./.prettierrc.cjs)
+- [Dependabot configuration](./.github/dependabot.yml)
+- [CI for open-source licenses](./.github/workflows/licensed.yml)
+- [Pull request labeler](./.github/labeler.yml)
+- [Merge PRs on approved reviews](./github/workflows/automerge.yml)
+- [CLA enforcement for new contributors](./github/workflows/cla.yml)
+- [Create PRs from feature/hotfix branches](./github/workflows/feature-pr.yml)
+- [Write code in TypeScript](./src/index.ts)
+- [Tests using Jest](./src/index.spec.ts)
 
-```bash
-wrangler generate my-ts-project https://github.com/EverlastingBugstopper/worker-typescript-template
-```
+## 💻 Getting started
 
-### 👩 💻 Developing
+1. [Create a new repository from this template](https://github.com/koj-co/workers-template/generate)
+2. Install dependencies using `npm install`
+3. Update package details in `package.json` and `README.md`
+   1. Find and replace `koj-co/workers-template` with `user/repository`
+   2. Find and replace `@koj/workers-template` with npm project name
 
-[`src/index.js`](./src/index.ts) calls the request handler in [`src/handler.ts`](./src/handler.ts), and will return the [request method](https://developer.mozilla.org/en-US/docs/Web/API/Request/method) for the given request.
+## 📄 License
 
-### 🧪 Testing
+[MIT](./LICENSE) © [Koj](https://koj.co)
 
-This template comes with mocha tests which simply test that the request handler can handle each request method. `npm test` will run your tests.
-
-### ✏️ Formatting
-
-This template uses [`prettier`](https://prettier.io/) to format the project. To invoke, run `npm run format`.
-
-### 👀 Previewing and Publishing
-
-For information on how to preview and publish your worker, please see the [Wrangler docs](https://developers.cloudflare.com/workers/tooling/wrangler/commands/#publish).
-
-## 🤢 Issues
-
-If you run into issues with this specific project, please feel free to file an issue [here](https://github.com/cloudflare/workers-typescript-template/issues). If the problem is with Wrangler, please file an issue [here](https://github.com/cloudflare/wrangler/issues).
-
-## ⚠️ Caveats
-
-The `service-worker-mock` used by the tests is not a perfect representation of the Cloudflare Workers runtime. It is a general approximation. We recommend that you test end to end with `wrangler dev` in addition to a [staging environment](https://developers.cloudflare.com/workers/tooling/wrangler/configuration/environments/) to test things before deploying.
+<p align="center">
+  <a href="https://koj.co">
+    <img width="44" alt="Koj" src="https://kojcdn.com/v1598284251/website-v2/koj-github-footer_m089ze.svg">
+  </a>
+</p>
+<p align="center">
+  <sub>An open source project by <a href="https://koj.co">Koj</a>. <br> <a href="https://koj.co">Furnish your home in style, for as low as CHF175/month →</a></sub>
+</p>
