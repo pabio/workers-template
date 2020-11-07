@@ -10,3 +10,26 @@ allowed:
   - unlicense
 reviewed:
   npm:
+    - abbrev
+    - bcrypt-pbkdf
+    - bin-links
+    - byline
+    - cacache
+    - cidr-regex
+    - color-convert-1.9.1
+    - color-convert-1.9.3
+    - color-convert-2.0.1
+    - retry-0.12.0
+    - sorted-object
+    - source-map
+    - spdx-exceptions-2.1.0
+    - spdx-exceptions-2.3.0
+    - ssri
+    - string_decoder-1.1.1
+    - string_decoder-1.3.0
+    - typedarray
+    - uglify-js
+    - util-promisify
+    - wcwidth
+    - wordwrap
+    - yargs-14.2.3
