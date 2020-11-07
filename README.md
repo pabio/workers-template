@@ -22,6 +22,7 @@ This is a starter repository for building Cloudflare Workers projects using Node
 - [Create PRs from feature/hotfix branches](./github/workflows/feature-pr.yml)
 - [Write code in TypeScript](./src/index.ts)
 - [Tests using Jest](./src/index.spec.ts)
+- [Based on Cloudflare's Workers template](https://github.com/cloudflare/worker-typescript-template)
 
 ## 💻 Getting started
 
