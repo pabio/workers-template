@@ -4,6 +4,8 @@ version: 0.2.3
 type: npm
 summary: JSON Schema validation and specifications
 homepage: https://github.com/kriszyp/json-schema#readme
-license: none
-licenses: []
+license: bsd-3-clause
+licenses:
+  - sources: README.md
+    text: Code is licensed under the AFL or BSD 3-Clause license.
 notices: []
