@@ -1,7 +1,7 @@
 {
-  "name": "pname",
-  "version": "1.0.0",
-  "description": "Cloudflare worker TypeScript template",
+  "name": "@koj/workers-template",
+  "version": "0.0.0",
+  "description": "Template for Cloudflare Workers with GitHub Actions CI, releases, and more",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -11,8 +11,24 @@
     "test": "npm run test:clean && npm run transpile && mocha --require source-map-support/register --recursive transpiled/test",
     "transpile": "tsc --project ./test"
   },
-  "author": "author",
-  "license": "MIT OR Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koj-co/workers-template.git"
+  },
+  "keywords": [
+    "koj",
+    "template",
+    "nodejs",
+    "typescript",
+    "workers",
+    "cloudflare-workers"
+  ],
+  "author": "Anand Chowdhary <mail@anandchowdhary.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koj-co/workers-template/issues"
+  },
+  "homepage": "https://github.com/koj-co/workers-template#readme",
   "devDependencies": {
     "@cloudflare/workers-types": "^2.0.0",
     "@types/chai": "^4.2.11",
