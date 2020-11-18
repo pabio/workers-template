@@ -1,6 +1,6 @@
 ---
 name: tempy
-version: 0.5.0
+version: 1.0.0
 type: npm
 summary: Get a random temporary file or directory path
 homepage: https://github.com/sindresorhus/tempy#readme

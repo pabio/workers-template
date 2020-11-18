@@ -1,6 +1,6 @@
 ---
 name: type-fest
-version: 0.18.0
+version: 0.18.1
 type: npm
 summary: A collection of essential TypeScript types
 homepage: https://github.com/sindresorhus/type-fest#readme

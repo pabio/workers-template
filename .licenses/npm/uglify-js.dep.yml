@@ -1,6 +1,6 @@
 ---
 name: uglify-js
-version: 3.11.5
+version: 3.11.6
 type: npm
 summary: JavaScript parser, mangler/compressor and beautifier toolkit
 homepage: https://github.com/mishoo/UglifyJS#readme

@@ -1,6 +1,6 @@
 ---
 name: "@semantic-release/github"
-version: 7.1.1
+version: 7.2.0
 type: npm
 summary: semantic-release plugin to publish a GitHub release and comment on released
   Pull Requests/Issues

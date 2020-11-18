@@ -1,6 +1,6 @@
 ---
 name: "@semantic-release/npm"
-version: 7.0.6
+version: 7.0.8
 type: npm
 summary: semantic-release plugin to publish a npm package
 homepage: https://github.com/semantic-release/npm#readme
