@@ -1,3 +1,16 @@
+## [v1.0.2](https://github.com/koj-co/workers-template/compare/v1.0.1...v1.0.2) (2020-11-23)
+
+### ⬆️ Dependency updates
+
+- [`8b3129d`](https://github.com/koj-co/workers-template/commit/8b3129d)  Update koj-co/template
+- [`62050f4`](https://github.com/koj-co/workers-template/commit/62050f4)  Bump vsoch/pull-request-action from 1.0.11 to 1.0.12
+- [`3979cd3`](https://github.com/koj-co/workers-template/commit/3979cd3)  Bump @koj/config from 1.2.8 to 1.2.9
+- [`f58f111`](https://github.com/koj-co/workers-template/commit/f58f111)  Bump webpack from 5.4.0 to 5.5.0
+- [`67b36c0`](https://github.com/koj-co/workers-template/commit/67b36c0)  Bump webpack from 5.5.0 to 5.5.1
+- [`cdf979e`](https://github.com/koj-co/workers-template/commit/cdf979e)  Bump prettier from 2.1.2 to 2.2.0
+- [`4f7dc86`](https://github.com/koj-co/workers-template/commit/4f7dc86)  Bump webpack from 5.5.1 to 5.6.0
+- [`aea9284`](https://github.com/koj-co/workers-template/commit/aea9284)  Bump typescript from 4.0.5 to 4.1.2
+
 ## [v1.0.1](https://github.com/koj-co/workers-template/compare/v1.0.0...v1.0.1) (2020-11-16)
 
 ### ⬆️ Dependency updates
