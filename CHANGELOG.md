@@ -1,3 +1,10 @@
+## [v1.0.3](https://github.com/koj-co/workers-template/compare/v1.0.2...v1.0.3) (2020-11-30)
+
+### ⬆️ Dependency updates
+
+- [`88319c1`](https://github.com/koj-co/workers-template/commit/88319c1)  Bump webpack from 5.6.0 to 5.7.0
+- [`ba4b941`](https://github.com/koj-co/workers-template/commit/ba4b941)  Bump webpack from 5.7.0 to 5.8.0
+
 ## [v1.0.2](https://github.com/koj-co/workers-template/compare/v1.0.1...v1.0.2) (2020-11-23)
 
 ### ⬆️ Dependency updates
