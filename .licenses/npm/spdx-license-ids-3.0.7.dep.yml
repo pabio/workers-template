@@ -1,6 +1,6 @@
 ---
 name: spdx-license-ids
-version: 3.0.6
+version: 3.0.7
 type: npm
 summary: A list of SPDX license identifiers
 homepage: https://github.com/jslicense/spdx-license-ids#readme

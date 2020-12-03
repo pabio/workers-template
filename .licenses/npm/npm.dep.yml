@@ -1,6 +1,6 @@
 ---
 name: npm
-version: 6.14.8
+version: 6.14.9
 type: npm
 summary: a package manager for JavaScript
 homepage: https://docs.npmjs.com/
@@ -955,3 +955,4 @@ notices:
     Sandra Tatarevićová <sandra@tatarevicova.cz>
     Antoine du Hamel <duhamelantoine1995@gmail.com>
     Assaf Sapir <assapir@github.com>
+    Lukas Spieß <lumaxis@github.com>

@@ -1,6 +1,6 @@
 ---
 name: npm-user-validate
-version: 1.0.0
+version: 1.0.1
 type: npm
 summary: User validations for npm
 homepage: https://github.com/npm/npm-user-validate#readme
