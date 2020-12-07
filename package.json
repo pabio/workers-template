@@ -1,6 +1,6 @@
 {
   "name": "@koj/workers-template",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Template for Cloudflare Workers with GitHub Actions CI, releases, and more",
   "main": "index.js",
   "scripts": {

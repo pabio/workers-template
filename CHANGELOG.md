@@ -1,3 +1,13 @@
+## v1.0.4 (2020-12-07)
+
+[📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.4) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.3...v1.0.4) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.4) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.4.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.4.tar.gz))
+
+### ⬆️ Dependency updates
+
+- [`884020d`](https://github.com/koj-co/workers-template/commit/884020d)  Bump webpack from 5.8.0 to 5.9.0
+- [`c8d9ccc`](https://github.com/koj-co/workers-template/commit/c8d9ccc)  Bump prettier from 2.2.0 to 2.2.1
+- [`e2dd2c5`](https://github.com/koj-co/workers-template/commit/e2dd2c5)  Bump @koj/config from 1.2.9 to 1.2.11
+
 ## [v1.0.3](https://github.com/koj-co/workers-template/compare/v1.0.2...v1.0.3) (2020-11-30)
 
 ### ⬆️ Dependency updates
