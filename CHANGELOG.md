@@ -1,3 +1,14 @@
+## v1.0.5 (2020-12-14)
+
+[📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.5) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.4...v1.0.5) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.5) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.5.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.5.tar.gz))
+
+### ⬆️ Dependency updates
+
+- [`7a2dbe9`](https://github.com/koj-co/workers-template/commit/7a2dbe9)  Bump webpack from 5.9.0 to 5.10.0
+- [`68d6095`](https://github.com/koj-co/workers-template/commit/68d6095)  Bump @types/mocha from 8.0.4 to 8.2.0
+- [`714cacc`](https://github.com/koj-co/workers-template/commit/714cacc)  Bump actions/setup-node from v2.1.2 to v2.1.3
+- [`e915f1d`](https://github.com/koj-co/workers-template/commit/e915f1d)  Bump ts-loader from 8.0.11 to 8.0.12
+
 ## v1.0.4 (2020-12-07)
 
 [📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.4) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.3...v1.0.4) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.4) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.4.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.4.tar.gz))
