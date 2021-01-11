@@ -1,3 +1,11 @@
+## v1.0.9 (2021-01-11)
+
+[📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.9) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.8...v1.0.9) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.9) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.9.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.9.tar.gz))
+
+### ⬆️ Dependency updates
+
+- [`fd30385`](https://github.com/koj-co/workers-template/commit/fd30385)  Bump ts-loader from 8.0.13 to 8.0.14
+
 ## v1.0.8 (2021-01-04)
 
 [📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.8) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.7...v1.0.8) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.8) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.8.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.8.tar.gz))
