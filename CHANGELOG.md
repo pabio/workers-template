@@ -1,3 +1,12 @@
+## v1.0.12 (2021-02-01)
+
+[📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.12) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.11...v1.0.12) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.12) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.12.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.12.tar.gz))
+
+### ⬆️ Dependency updates
+
+- [`8c28726`](https://github.com/koj-co/workers-template/commit/8c28726)  Bump webpack from 5.16.0 to 5.17.0
+- [`6c05629`](https://github.com/koj-co/workers-template/commit/6c05629)  Bump webpack from 5.17.0 to 5.18.0
+
 ## v1.0.11 (2021-01-25)
 
 [📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.11) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.10...v1.0.11) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.11) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.11.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.11.tar.gz))
