@@ -1,3 +1,17 @@
+## v1.0.13 (2021-02-08)
+
+[📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.13) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.12...v1.0.13) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.13) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.13.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.13.tar.gz))
+
+### ⬆️ Dependency updates
+
+- [`995a903`](https://github.com/koj-co/workers-template/commit/995a903)  Bump webpack from 5.18.0 to 5.19.0
+- [`ee42208`](https://github.com/koj-co/workers-template/commit/ee42208)  Bump webpack-cli from 4.4.0 to 4.5.0
+- [`4069d1c`](https://github.com/koj-co/workers-template/commit/4069d1c)  Bump webpack from 5.19.0 to 5.20.0
+- [`62e822e`](https://github.com/koj-co/workers-template/commit/62e822e)  Bump webpack from 5.20.0 to 5.20.1
+- [`8c64cbb`](https://github.com/koj-co/workers-template/commit/8c64cbb)  Bump webpack from 5.20.1 to 5.20.2
+- [`5f6d027`](https://github.com/koj-co/workers-template/commit/5f6d027)  Bump chai from 4.2.0 to 4.3.0
+- [`a8b7113`](https://github.com/koj-co/workers-template/commit/a8b7113)  Bump ts-loader from 8.0.14 to 8.0.15
+
 ## v1.0.12 (2021-02-01)
 
 [📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.12) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.11...v1.0.12) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.12) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.12.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.12.tar.gz))
