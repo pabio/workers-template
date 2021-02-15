@@ -1,3 +1,18 @@
+## v1.0.14 (2021-02-15)
+
+[📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.14) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.13...v1.0.14) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.14) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.14.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.14.tar.gz))
+
+### ⬆️ Dependency updates
+
+- [`1f857bc`](https://github.com/koj-co/workers-template/commit/1f857bc)  Bump webpack from 5.20.2 to 5.21.2
+- [`dfb91a9`](https://github.com/koj-co/workers-template/commit/dfb91a9)  Bump actions/cache from v2 to v2.1.4
+- [`e406671`](https://github.com/koj-co/workers-template/commit/e406671)  Bump ts-loader from 8.0.15 to 8.0.16
+- [`e34ccc0`](https://github.com/koj-co/workers-template/commit/e34ccc0)  Bump typescript from 4.1.3 to 4.1.4
+- [`f8144d7`](https://github.com/koj-co/workers-template/commit/f8144d7)  Bump ts-loader from 8.0.16 to 8.0.17
+- [`e09d82e`](https://github.com/koj-co/workers-template/commit/e09d82e)  Bump @types/chai from 4.2.14 to 4.2.15
+- [`76620f9`](https://github.com/koj-co/workers-template/commit/76620f9)  Bump typescript from 4.1.4 to 4.1.5
+- [`5a35a0f`](https://github.com/koj-co/workers-template/commit/5a35a0f)  Bump mocha from 8.2.1 to 8.3.0
+
 ## v1.0.13 (2021-02-08)
 
 [📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.13) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.12...v1.0.13) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.13) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.13.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.13.tar.gz))
