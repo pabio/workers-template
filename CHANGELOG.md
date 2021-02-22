@@ -1,3 +1,16 @@
+## v1.0.15 (2021-02-22)
+
+[📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.15) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.14...v1.0.15) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.15) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.15.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.15.tar.gz))
+
+### ⬆️ Dependency updates
+
+- [`5cfe462`](https://github.com/koj-co/workers-template/commit/5cfe462)  Bump vsoch/pull-request-action from 1.0.13 to 1.0.14
+- [`5341f9d`](https://github.com/koj-co/workers-template/commit/5341f9d)  Bump pascalgn/automerge-action from v0.13.0 to v0.13.1
+- [`fae6aca`](https://github.com/koj-co/workers-template/commit/fae6aca)  Bump webpack from 5.21.2 to 5.22.0
+- [`b90220f`](https://github.com/koj-co/workers-template/commit/b90220f)  Bump vsoch/pull-request-action from 1.0.14 to 1.0.15
+- [`f1bc234`](https://github.com/koj-co/workers-template/commit/f1bc234)  Bump @types/mocha from 8.2.0 to 8.2.1
+- [`06e17ff`](https://github.com/koj-co/workers-template/commit/06e17ff)  Bump webpack from 5.22.0 to 5.23.0
+
 ## v1.0.14 (2021-02-15)
 
 [📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.14) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.13...v1.0.14) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.14) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.14.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.14.tar.gz))
