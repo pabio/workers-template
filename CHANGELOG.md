@@ -1,3 +1,15 @@
+## v1.0.17 (2021-03-08)
+
+[📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.17) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.16...v1.0.17) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.17) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.17.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.17.tar.gz))
+
+### ⬆️ Dependency updates
+
+- [`d17469e`](https://github.com/koj-co/workers-template/commit/d17469e)  Bump urijs from 1.19.5 to 1.19.6
+- [`77964ee`](https://github.com/koj-co/workers-template/commit/77964ee)  Bump chai from 4.3.0 to 4.3.1
+- [`faf934a`](https://github.com/koj-co/workers-template/commit/faf934a)  Bump chai from 4.3.1 to 4.3.3
+- [`3396c7d`](https://github.com/koj-co/workers-template/commit/3396c7d)  Bump webpack from 5.24.2 to 5.24.3
+- [`bb41a4f`](https://github.com/koj-co/workers-template/commit/bb41a4f)  Bump typescript from 4.2.2 to 4.2.3
+
 ## v1.0.16 (2021-03-01)
 
 [📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.16) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.15...v1.0.16) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.16) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.16.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.16.tar.gz))
