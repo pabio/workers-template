@@ -1,3 +1,7 @@
+## v1.0.18 (2021-03-15)
+
+[📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.18) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.17...v1.0.18) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.18) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.18.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.18.tar.gz))
+
 ## v1.0.17 (2021-03-08)
 
 [📝 Release notes](https://github.com/koj-co/workers-template/releases/tag/v1.0.17) · [💻 Compare](https://github.com/koj-co/workers-template/compare/v1.0.16...v1.0.17) · [🔖 Tag](https://github.com/koj-co/workers-template/tree/v1.0.17) · 🗄️ Archive ([zip](https://github.com/koj-co/workers-template/archive/v1.0.17.zip) · [tar.gz](https://github.com/koj-co/workers-template/archive/v1.0.17.tar.gz))
